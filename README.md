@@ -27,6 +27,7 @@ This project builds on earlier RPG and OOP work by introducing property-based st
 
 `GameCharacter` is initialised with a name. Stats start at fixed values and are managed through properties:
 | Stat | Default | Min | Max |
+|------|---------|-----|-----|
 | Health | 100 | 0 | 100 |
 | Mana | 50 | 0 | 50 |
 | Level | 1 | - | - |
